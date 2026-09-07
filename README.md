@@ -14,8 +14,13 @@ GE = goulot d'etranglement
 Histoire:
           Un aeroport a decouvert qu'avec les differents
           changement de meteo, il y a un goulot d'etranglement
-          sur la piste d'atterissage. Pour trouver une simulation,
-          ils doivent trouver qu'elle scenario creer le plus gros GE.
+          sur la piste d'atterissage.
+          Pour trouver une simulation,
+          ils doivent trouver quelle scenario creer le plus gros GE.
 
-          Ils vont me passer un design
-          pour que j'implemente la simulation. 
+          Pour que j'implemente la simulation. 
+          Ils vont me passer:
+            -design UML diagram
+            -le pattern requis d'OO
+
+        
