@@ -23,4 +23,10 @@ Histoire:
             -design UML diagram
             -le pattern requis d'OO
 
-        
+Pour la realisation du projet, je ne dois pas:
+
+  -utiliser des biliotheques java externe, outils de build et generateur de code.
+  -Ne pas utiliser le default package
+  -Creer mon propre package en suivant le naming convention de java
+  -Ne pas commit les  .class files (pas compris ca)
+
