@@ -1,0 +1,21 @@
+Ce projet nous introduit en class diagram UML et design pattern object oriented, le tout implemente en java.
+Le challenge sera d'ecrire du bon OO en java.
+
+Je vais devoir creer une simulation d'aeronef base sur un diagramme de classe UML donne.
+
+UML = Unified Modeling Language
+
+Ce truc est utilise en ingenieurie d'application pour visualiser le design d'une application.
+Ca standardize le maniere de pense en terme d'OOP pour les dev avant qu'ils n'ecrivent une seule ligne de code .
+
+
+GE = goulot d'etranglement
+
+Histoire:
+          Un aeroport a decouvert qu'avec les differents
+          changement de meteo, il y a un goulot d'etranglement
+          sur la piste d'atterissage. Pour trouver une simulation,
+          ils doivent trouver qu'elle scenario creer le plus gros GE.
+
+          Ils vont me passer un design
+          pour que j'implemente la simulation. 
