@@ -5,7 +5,7 @@ src/aircrafts/Flyable.java
 src/aircrafts/Helicopter.java
 src/aircrafts/JetPlane.java
 src/aircrafts/Coordinates.java
-src/Simulation.java
 src/Tower.java
 src/WeatherTower.java
 src/WeatherProvider.java
+src/simulator/Simulator.java
