@@ -11,9 +11,17 @@ import java.io.IOException;
 import java.lang.Byte;
 import java.io.FileReader;
 import java.lang.Character;
+import aircraft.Aircraft;
 
 public class Simulator {
-
+  /*
+   * The first line of the file contains a positive integer. 
+   * This number represents how many times the simulation runs.
+   * In our case, this will be the number of times a weather change 
+   * is triggered
+   *
+   */
+  public int howManyTime;
   public static void main(String[] args) {
 
     try {
@@ -24,8 +32,9 @@ public class Simulator {
 
       FileReader readerScenario = new FileReader(args[0]);
 
-      for (int i = 0; i < 100; i++){
-        int intCharacter = readerScenario.read();
+      int intCharacter = 0;
+      while (intCharacter != -1){
+        intCharacter = readerScenario.read();
         char c = (char) intCharacter;
         IO.print(c);
       }
