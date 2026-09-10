@@ -4,7 +4,7 @@
  * */
 
 package WeatherProvider;
-import Coordinates.Coordinates;
+import coordinates.Coordinates;
 
 public class WeatherProvider {
   private void WeatherProvider(){
